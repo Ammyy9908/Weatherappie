@@ -1,0 +1,16 @@
+body{
+  background-color: #ccc;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
+
+.container
+{
+  max-width: 400px;
+}
+
+.card
+{
+  background-color: #f8f9fa;
+}
